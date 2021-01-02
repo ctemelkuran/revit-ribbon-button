@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command Coord.Revit.RibbonButton</Text>
+    <Description>Some description for Coord.Revit.RibbonButton</Description>
+    <Assembly>Coord.Revit.RibbonButton.dll</Assembly>
+    <FullClassName>Coord.Revit.RibbonButton.Command</FullClassName>
+    <ClientId>80ed5111-eabd-433c-a3d1-3e949687db5d</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application Coord.Revit.RibbonButton</Name>
+    <Assembly>Coord.Revit.RibbonButton.dll</Assembly>
+    <FullClassName>Coord.Revit.RibbonButton.App</FullClassName>
+    <ClientId>8b174bc3-05b3-423d-a833-97cdae4a73a0</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

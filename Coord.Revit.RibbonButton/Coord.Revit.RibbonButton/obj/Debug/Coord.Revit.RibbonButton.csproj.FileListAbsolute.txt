@@ -1,0 +1,6 @@
+C:\Users\cgrte\source\repos\Coord.Revit.RibbonButton\Coord.Revit.RibbonButton\bin\Debug\Coord.Revit.RibbonButton.dll
+C:\Users\cgrte\source\repos\Coord.Revit.RibbonButton\Coord.Revit.RibbonButton\bin\Debug\Coord.Revit.RibbonButton.pdb
+C:\Users\cgrte\source\repos\Coord.Revit.RibbonButton\Coord.Revit.RibbonButton\obj\Debug\Coord.Revit.RibbonButton.Properties.Resources.resources
+C:\Users\cgrte\source\repos\Coord.Revit.RibbonButton\Coord.Revit.RibbonButton\obj\Debug\Coord.Revit.RibbonButton.csproj.GenerateResource.cache
+C:\Users\cgrte\source\repos\Coord.Revit.RibbonButton\Coord.Revit.RibbonButton\obj\Debug\Coord.Revit.RibbonButton.dll
+C:\Users\cgrte\source\repos\Coord.Revit.RibbonButton\Coord.Revit.RibbonButton\obj\Debug\Coord.Revit.RibbonButton.pdb
